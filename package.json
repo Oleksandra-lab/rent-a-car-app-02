@@ -1,9 +1,9 @@
 {
-  "name": "rent-a-car-app",
+  "name": "rent-a-car-app-02",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://oleksandra-lab.github.io/rent-a-car-app/",
+  "homepage": "https://oleksandra-lab.github.io/rent-a-car-app-02/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
